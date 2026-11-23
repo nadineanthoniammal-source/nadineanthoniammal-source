@@ -1,120 +1,296 @@
-### Hi, I'm Nadine Anthoniammal O 👋
+<div align="center">
 
-## 🚀 AI & Full-Stack Developer | Agentic AI • RAG • LLMs • IoT
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,45:17113b,100:00d9c0&text=NADINE%20ANTHONIAMMAL%20O&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20FULL-STACK%20%7C%20SOFTWARE%20DEVELOPER&descSize=15&descAlignY=58&animation=fadeIn" />
 
-> *"I don't just build models, I build working systems: from an ESP32 sensor on the edge to an LLM-powered backend in production."*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=00D9C0&center=true&vCenter=true&width=850&height=45&lines=Turning+Ideas+Into+Working+Systems;Exploring+AI+%26+Intelligent+Applications;Building+Practical+Software+Solutions" />
 
-I'm a **pre-final year B.Tech IT student** and **national hackathon winner** from Puducherry. I turn messy real-world data (ESG reports, patient vitals, sensor streams) into reliable, verifiable AI. I care about **reducing LLM hallucination, building agentic workflows, and shipping things that actually run.**
+<br/>
 
-📧 [nadineanthoniammal@gmail.com](mailto:nadineanthoniammal@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/nadine-anthoniammal-ubagaranathan-629209377) | 📍 Puducherry, India
+<img src="https://komarev.com/ghpvc/?username=nadineanthoniammal-source&label=PROFILE+VIEWS&color=00d9c0&style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SOFTWARE-7B61FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-00A98F?style=for-the-badge" />
 
----
+<br/><br/>
 
-## ⚡ At a Glance
+<a href="https://www.linkedin.com/in/nadine-anthoniammal-ubagaranathan-629209377">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:nadineanthoniammal@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/nadineanthoniammal-source">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-| | |
-|---|---|
-| 🏆 **Recognition** | Winner, HACKERRUPT'26 (24-hr National Hackathon) |
-| 🎓 **Education** | B.Tech IT, SMVEC (2024-2028), CGPA 7.9 |
-| 🤖 **Experience** | AI & ML Intern, Ocean Academy (2026) |
-| 🧠 **Focus** | Agentic AI, RAG, NLP, Generative AI, Backend APIs |
-| 🌍 **Domain Interest** | Sustainability & ESG data analysis |
-| 🗣️ **Languages** | Tamil (Native), English (Professional), French (DELF A1) |
-| 📬 **Status** | Open to AI/ML and backend internships |
-
----
-
-## 🎯 What I'm Working On Now
-
-- 🔍 Building **agentic pipelines** with LangGraph that verify every LLM answer against its source
-- 🌱 Exploring **edge AI, digital twins, and predictive maintenance**
-- ⚙️ Automating workflows with **n8n** and local LLMs (Ollama)
+</div>
 
 ---
 
-## 🚀 Featured Projects
 
-### 🌿 [ESGLens AI: Agentic ESG Report Analyzer](https://github.com/nadineanthoniammal-source/esglens-ai)
-A LangGraph agent that extracts key ESG metrics from Indian BRSR report PDFs and **verifies each value against its source page** to cut hallucination.
-- RAG Q&A with page citations, greenwashing detector, E/S/G classifier, multi-year comparison
-- ✅ **Hand-verified 8 of 8 fields** on Reliance's FY 2024-25 BRSR
-- 🌐 Deployed as a live Streamlit app
+<h2 align="center">👩🏻‍💻 Who Am I?</h2>
 
-**Tech:** Python, LangGraph, LangChain, ChromaDB, RAG, Groq, scikit-learn, FastAPI, Streamlit
+<div align="center">
 
-### ❤️ CARDIA-X: Multimodal AI & IoT Health Monitoring System
-A **cloud-independent** healthcare system that combines vitals, motion, and privacy-preserving vision for real-time emergency detection.
-- Agentic workflow with a local LLM (Phi-4 Mini) + RAG that writes caregiver summaries and triggers alerts
-- 🏆 Hackathon-winning project
+<img src="./assets/assets/who-am-i-typewriter.gif" width="850" alt="Animated introduction"/>
 
-**Tech:** FastAPI, Python, LLMs, RAG, MediaPipe, MoveNet, OpenCV, ESP32
-
-### 🎫 HackVerse AI: AI-Powered Hackathon Management Platform
-End-to-end automation for team registration, **LLM-based scoring**, shortlisting, QR attendance, and certificate generation.
-
-**Tech:** n8n, Groq, React.js, Vite, REST APIs, Google Sheets
-
-### ✈️ Q-TwinAir: Hybrid Digital Twin for Aircraft Monitoring
-Aircraft health monitoring with live ESP32 sensor data, Kalman filtering, and a 3D dashboard.
-
-**Tech:** React, Three.js, FastAPI, ESP32, Kalman Filter
-
-### 📱 More Projects
-- **ABI Connect**: voice-controlled learning app for visually impaired users with offline LLM support (Python, Ollama, Flutter)
-- **Trip Smart**: Puducherry travel guide with maps, AI chatbot, and reviews (Flutter, Firebase, Google Maps API)
-- **Pondy Explorer**: smart travel planner with budget estimation and trip packages (Flutter, Firebase, REST APIs)
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👩🏻‍💻 Professional Profile
 
-| Category | Technologies |
-|---|---|
-| 💻 **Languages** | Python, Java, C, SQL |
-| 🧠 **AI / LLMs** | Machine Learning, NLP, Generative AI, RAG, AI Agents, OpenAI API, Groq, Ollama |
-| 🔗 **Agent Frameworks** | LangChain, LangGraph, n8n, MediaPipe, MoveNet, OpenCV |
-| 📊 **Data & ML** | Pandas, NumPy, Scikit-learn |
-| ⚙️ **Backend** | FastAPI, Flask, Node.js, REST APIs |
-| 🎨 **Frontend** | React.js, Vite, Streamlit, HTML5, CSS3, Flutter |
-| 🗄️ **Databases** | SQL, ChromaDB (vector DB), MongoDB (basics), Firebase |
-| ☁️ **Cloud** | AWS (Cloud Foundations), Firebase |
-| 🔌 **IoT / Embedded** | ESP32, MPU6050, BMP280, DS18B20, GPS |
-| 🧰 **Tools** | Git, GitHub, Postman, VS Code |
-| 📚 **Core CS** | Data Structures & Algorithms, OOP, System Design Fundamentals |
+- 🎓 B.Tech Information Technology — **SMVEC, Puducherry (2024–2028)**
+- 🏆 National-level hackathon winner.
+- 🤖 Interested in AI, Generative AI, LLMs and intelligent applications.
+- ⚙️ Enjoy building backend systems, APIs and automation workflows.
+- 🔌 Exploring IoT, edge AI and digital twin technologies.
+- 📚 Currently strengthening Java and Data Structures & Algorithms.
 
 ---
 
-## 🏆 Achievements
 
-- 🥇 **Winner, HACKERRUPT'26**: 24-hour National Hackathon sponsored by Codeworks.ai, hosted by Sri Venkateswara College of Engineering, Chennai
-- 🥇 **Winner, Poster Presentation Competition**: Mathematics Day 2025, SMVEC
-- 🎤 **Presenter**, Technovate for India Conclave 2024
-- 💻 **Participant**: TCS CodeVita Season 17 & 18, AI Ignite Hackathon, TechSprint Open Innovation Challenge, Tech Connexions JIGYASA 2025
+## 🔭 Current Engineering Focus
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=8B70FF&center=true&vCenter=true&width=850&height=40&lines=Agentic+AI+%26+LLM+Engineering;RAG+Pipelines+%26+Knowledge+Retrieval;NLP+%26+Applied+Data+Science;Backend+Systems+%26+API+Development;Computer+Vision+%26+Intelligent+Applications" />
+
+</div>
+
+- 🧠 Exploring **Agentic AI, Generative AI and LLM-powered applications** using LangGraph, LangChain and Groq.
+- 🔎 Building knowledge-driven systems with **RAG, ChromaDB, vector databases and source-grounded retrieval**.
+- 📊 Exploring **Data Science, NLP and Machine Learning** with Python and scikit-learn.
+- ⚙️ Developing backend services, REST APIs and workflow automation using **FastAPI, Python and n8n**.
+- 👁️ Exploring computer vision applications using **OpenCV, MediaPipe and MoveNet**.
+- 🌐 Building web applications and integrations using **React.js, Vite, REST APIs and Google Sheets**.
+- 💻 Strengthening **Java, Data Structures and Algorithms**.
+
+**Technologies I'm Exploring**
+
+`Python` `LangGraph` `LangChain` `ChromaDB` `RAG` `NLP` `Generative AI` `Groq LLM API` `scikit-learn` `FastAPI` `Streamlit` `n8n` `MediaPipe` `MoveNet` `OpenCV` `React.js` `Vite` `REST APIs` `Google Sheets`
+
+
+### 🧰 Technical Arsenal
+
+
+### 💻 Programming Languages
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql&theme=dark" />
+</div>
+
+### 🧠 Artificial Intelligence & Generative AI
+
+<div align="center">
+<img src="https://img.shields.io/badge/Generative_AI-7B61FF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-00A98F?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agents-FF6F61?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+</div>
+
+### 🔗 AI Frameworks & Workflow Automation
+
+<div align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-5B46A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+</div>
+
+### ⚙️ Full-Stack Development
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,html,css,vite,flutter&theme=dark" />
+</div>
+
+### 📊 Data Science & Databases
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,mongodb,firebase,mysql&theme=dark" />
+</div>
+
+### ☁️ Cloud, IoT & Developer Tools
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,arduino,git,github,postman,vscode&theme=dark" />
+</div>
+
+<details>
+<summary><b>🔌 Embedded Systems & IoT Components</b></summary>
+
+`ESP32` · `MPU6050` · `BMP280` · `DS18B20` · `MAX30102` · `GPS`
+
+</details>
 
 ---
 
-## 🎓 Certifications
+## 🚀 Selected Engineering Projects
+
+### 🌱 ESGLENS AI – Agentic ESG Report Analyzer
+
+An Agentic AI-powered ESG report analyzer that extracts, verifies and analyzes sustainability metrics from Indian BRSR report PDFs.
+
+- Built a LangGraph agent to extract key ESG metrics from Indian BRSR report PDFs using LangChain, ChromaDB vector database and Retrieval-Augmented Generation (RAG).
+- Implemented source-page verification for extracted values to reduce LLM hallucinations.
+- Added RAG-based Q&A with page citations, a greenwashing detector, an Environmental/Social/Governance (E/S/G) text classifier and multi-year comparison.
+- Hand-verified all 8 extracted fields against Reliance's FY 2024–25 BRSR report.
+- Deployed a live Streamlit application.
+
+**Technology:** Python · LangGraph · LangChain · ChromaDB · RAG · NLP · Generative AI · Groq LLM API · scikit-learn · FastAPI · Streamlit
+
+---
+
+### ❤️ CARDIA — AI & IoT Health Monitoring
+
+A cloud-independent health monitoring system combining sensor data and AI-assisted analysis.
+
+- ESP32-based sensor integration.
+- MAX30102-based vital monitoring.
+- Local LLM-assisted health insights.
+- Offline-oriented system design.
+
+**Technology:** Python · FastAPI · ESP32 · MAX30102 · Ollama · LLMs
+
+---
+
+### ✈️ Q-Twin — Edge-AI Digital Twin Platform
+
+An edge-AI predictive health monitoring and digital twin platform for UAV/MRO ground maintenance.
+
+- ESP32 sensor data collection.
+- FastAPI backend for sensor communication.
+- 3D digital twin visualization.
+- Predictive maintenance-oriented monitoring.
+
+**Technology:** ESP32 · FastAPI · React · Three.js · IoT · Edge AI
+
+---
+
+### 🤖 FieldHackverse AI — AI-Powered Workflow Automation
+
+An AI-powered hackathon workflow backend developed using automation and LLM integration.
+
+- n8n-based workflow automation.
+- Gemini API-based AI evaluation.
+- Automated email notifications.
+- API integration and process automation.
+
+**Technology:** n8n · Google Gemini API · REST APIs · LLMs
+
+---
+
+### 📱 ABI Connect — Offline AI Accessibility
+
+An accessibility-focused application designed to support visually impaired users with offline LLM capabilities.
+
+**Technology:** Python · Ollama · Local LLMs
+
+---
+
+### ✈️ TripSmart — Travel Assistance Platform
+
+A Puducherry travel guide with maps, AI chatbot and reviews.
+
+**Technology:** Flutter · Firebase · Google Maps API
+
+---
+
+### 🗺️ PondyExplorer — Smart Travel Planner
+
+A travel planning application with budget estimation and trip packages.
+
+**Technology:** Flutter · Firebase · REST APIs
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI_%26_MACHINE_LEARNING_INTERN-OCEAN_ACADEMY-7B61FF?style=for-the-badge"/>
+
+</div>
+
+**Ocean Academy | Puducherry**
+
+`29 May 2026 — 17 June 2026`
+
+- Explored Generative AI, LLM integration and AI Agents.
+- Practised prompt engineering and API integration.
+- Developed n8n workflow automation.
+- Worked with Gemini API-based AI evaluation.
+- Explored automated email notification workflows.
+
+---
+
+## 🏆 Recognition & Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HACKERRUPT'26-NATIONAL_HACKATHON_WINNER-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MATHEMATICS_DAY_2025-POSTER_PRESENTATION_WINNER-00A98F?style=for-the-badge"/>
+
+</div>
+
+- 🥇 **Winner — HACKERRUPT'26:** 24-hour National Hackathon.
+- 🥇 **Winner — Mathematics Day 2025:** Poster Presentation Competition, SMVEC.
+- 🎤 Presenter — Technovate for India Conclave 2024.
+- 💻 Participant — TCS CodeVita Season 17 & 18.
+- 🤖 Participant — AI Ignite Hackathon.
+- 🚀 Participant — TechSprint Open Innovation Challenge.
+- 🎓 Participant — Tech Connexions JIGYASA 2025.
+
+---
+
+## 📜 Certifications & Continuous Learning
+
+<details open>
+<summary><b>View Certifications</b></summary>
 
 - ☁️ AWS Academy Cloud Foundations
-- ☕ NPTEL: Programming in JAVA
-- 🐍 NPTEL: Python for Data Science
+- ☕ NPTEL — Programming in Java
+- 🐍 NPTEL — Python for Data Science
 - 🌐 Full Stack Development: Java
-- 🇫🇷 DELF A1: French Language Certification
-- 🏷️ Data Labeling Job Simulation, Forage (2025)
-- 📋 Project Manager Job Simulation, Siemens, Forage
+- 🇫🇷 DELF A1 — French Language Certification
+- 🏷️ Data Labeling Job Simulation — Forage
+- 📋 Project Manager Job Simulation — Siemens, Forage
+
+</details>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Collaboration & Contact
 
-I'm open to **AI/ML and backend internships**, hackathon teams, and collaborations in **agentic AI, ESG analytics, and AI + IoT.**
+<div align="center">
 
-📧 [nadineanthoniammal@gmail.com](mailto:nadineanthoniammal@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/nadine-anthoniammal-ubagaranathan-629209377)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=1000&color=00D9C0&center=true&vCenter=true&width=850&height=65&lines=Open+to+AI%2FML+Internship+Opportunities;Interested+in+Data+Science+%26+NLP;Exploring+RAG%2C+LLMs+%26+Agentic+AI;Passionate+About+Backend+%26+Intelligent+Systems" />
 
-⭐ *If you like my work, drop a star on a repo. Let's build something great together!*
+<br/><br/>
 
----
+<a href="mailto:nadineanthoniammal@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-The intro now has a punchy tagline, a quote-style line about your approach, an "At a Glance" table and a "What I'm Working On Now" section. Everything else comes from your resume.
+<a href="https://www.linkedin.com/in/nadine-anthoniammal-ubagaranathan-629209377">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-I labelled CARDIA-X as hackathon-winning because your resume says your hackathon-winning project was in the AI/LLM area. If it was a different project, delete that line.
+
+<a href="https://github.com/nadineanthoniammal-source">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**"Build with curiosity. Engineer with purpose. Innovate with impact."**
+
+
+</div>
+
+
