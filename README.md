@@ -1,6 +1,3 @@
-Here is the complete `README.md` as raw Markdown. Click the copy button on the code block and paste it into your profile `README.md`.
-
-````markdown
 ### Hi, I'm Nadine Anthoniammal O 👋
 
 ## 🚀 AI & Full-Stack Developer | Agentic AI • RAG • LLMs • IoT
@@ -48,6 +45,7 @@ A LangGraph agent that extracts key ESG metrics from Indian BRSR report PDFs and
 ### ❤️ CARDIA-X: Multimodal AI & IoT Health Monitoring System
 A **cloud-independent** healthcare system that combines vitals, motion, and privacy-preserving vision for real-time emergency detection.
 - Agentic workflow with a local LLM (Phi-4 Mini) + RAG that writes caregiver summaries and triggers alerts
+- 🏆 Hackathon-winning project
 
 **Tech:** FastAPI, Python, LLMs, RAG, MediaPipe, MoveNet, OpenCV, ESP32
 
@@ -114,4 +112,9 @@ I'm open to **AI/ML and backend internships**, hackathon teams, and collaboratio
 📧 [nadineanthoniammal@gmail.com](mailto:nadineanthoniammal@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/nadine-anthoniammal-ubagaranathan-629209377)
 
 ⭐ *If you like my work, drop a star on a repo. Let's build something great together!*
-````
+
+---
+
+The intro now has a punchy tagline, a quote-style line about your approach, an "At a Glance" table and a "What I'm Working On Now" section. Everything else comes from your resume.
+
+I labelled CARDIA-X as hackathon-winning because your resume says your hackathon-winning project was in the AI/LLM area. If it was a different project, delete that line.
